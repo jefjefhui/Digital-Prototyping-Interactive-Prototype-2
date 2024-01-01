@@ -35,4 +35,4 @@ Observations will be performed while the testers are testing the prototype. Once
 
 Detailed information of prototype 2,background information , testing session, and key takeaways can be found in the statement of delivery. 
 
-The following link shows the prototype 2 video, which demonstrates how interactive prototype 2 works. Link:   
+The following link shows the prototype 2 video, which demonstrates how interactive prototype 2 works. Link: https://www.youtube.com/watch?v=JuuXvboqHn8
