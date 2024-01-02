@@ -39,7 +39,7 @@ The image above is the Unity screen. It is the setting of the prototype.
 
 ![image_Two](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-2/assets/73283123/a839c040-c2ab-4aec-a715-7fff7be74bd4)
 
-In the image above, left is image 2a, right is image 2b, you can see the circuit playground is upright and vertical, which symbolize driver's head is facing forward and vertical, like the position in image 2a.
+In the image above, left is image 2a, right is image 2b. In image 2b, you can see the circuit playground is upright and vertical, which symbolize driver's head is facing forward and vertical, like the position in image 2a.
 
 ![image_Three](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-2/assets/73283123/e5b80a06-6067-4b22-bbe6-0d85721315a1)
 
