@@ -33,6 +33,33 @@ Testers need to test the prototype 2 in the prototype 2 testing session. Testers
 
 Observations will be performed while the testers are testing the prototype. Once the testers completed all the testings on the prototype, the interview session will begin. After having a detailed observation and interviews, I realize most testers believe the automated data collection system is a better approach than the manual data input approach, since most testers think it is more efficient. But the testers also pointed out there are drawbacks in the current system, for instance, false detection and insensitivity of the system. These drawbacks can impact user experience heavily, so I can work on these aspects in the future developments. In future developments, I can work on different accelerometer values and find out which will provide the most satisfactory result. Also, I may add a confirmation system to the system and trigger it when it is needed. These useful insights can help me to find a proper solution to the challenge that I raised earlier, so I can have a clear direction for the future improvements.
 
+![img_One](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-2/assets/73283123/f9a9151d-f714-4b5f-af2b-4e9c972b9069)
+
+The image above is the Unity screen. It is the setting of the prototype.
+
+![image_Two](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-2/assets/73283123/a839c040-c2ab-4aec-a715-7fff7be74bd4)
+
+In the image above, left is image 2a, right is image 2b, you can see the circuit playground is upright and vertical, which symbolize driver's head is facing forward and vertical, like the position in image 2a.
+
+![image_Three](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-2/assets/73283123/e5b80a06-6067-4b22-bbe6-0d85721315a1)
+
+In the image above, left is image 3a, right is image 3b. In image 3b, you can see the circuit playground leaned forward and inclined, which symbolize driver's head lean forward when they fall asleep, which is like the position in image 3a.
+
+![image_Four](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-2/assets/73283123/cc650a38-2fb0-4c44-9d40-1c8f18e4a9eb)
+
+In the image above, when the circuit playground is placed vertically. It means driver facing forward, and paying attention to traffic, so it shows green. 
+
+![image_Five](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-2/assets/73283123/9d4ff028-1f89-47d8-94ad-ed93a973b328)
+
+In the image above, when the circuit playground inclined, and create an angle, it means driver's head keep forward or downwards, which imply dirver is not paying attention to traffic, they may fell asleep, so it shows red. In addition, the circuit playground will ring.
+
+![image_Six](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-2/assets/73283123/d558ae9e-cf35-4bcc-b6d3-0eba4b5227e4)
+
+The image above shows the interaction diagram which demonstrates the flow of prototype 2. 
+
+
+
+
 Detailed information of prototype 2,background information , testing session, and key takeaways can be found in the statement of delivery. 
 
 The following link shows the prototype 2 video, which demonstrates how interactive prototype 2 works. Link: https://www.youtube.com/watch?v=JuuXvboqHn8
