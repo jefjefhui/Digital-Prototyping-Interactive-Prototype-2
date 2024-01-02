@@ -1,0 +1,7 @@
+This is the link to all the files for prototype 2:
+https://drive.google.com/drive/folders/1BHVBPPwCNJooV62KER32BSWVJ2h8_3po?usp=sharing
+
+Instructions:
+1. Unzip the zip file 
+2. There are three files after you unzip the zip file 
+3. DECO7230prototype1 is the unity file, P2Arduino is the arduino file, Video file has the testing session videos. The video file includes 2 videos, one for the testing process, one for the intervew process.
